@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izajablecka
 - 👀 I’m interested in code-related topics, learning new languages and traveling
-- 🌱 I’m currently learning JavaScript & React
+- 🌱 I’m currently learning JavaScript & React & NodeJS
 - 💞️ I’m looking to collaborate on different frontend projects and learning new skills
 - 📫 How to reach me: via e-mail izjab@icloud.com and LinkedIn https://www.linkedin.com/in/izabelajablecka/
 
